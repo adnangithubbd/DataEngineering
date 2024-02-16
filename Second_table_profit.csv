@@ -1,0 +1,20 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,#,Company,Industry,Country,Year,Report date,Nominal loss (billion),USD FX rate at period end[38],USD equivalent loss (billion),USD inflation to December 2021[39],USD real loss (billion)
+1,1,AOL Time Warner,Media conglomerate,United States,2002,31 December 2002,$98.7[40],1,$98.7,44.94%,$143.06
+2,2,American International Group (AIG),InsuranceFinancial services,United States,2008,31 December 2008,$99.3[41],1,$99.3,28.47%,$127.6
+3,3,JDS Uniphase,Optical products and broadband communications,United States,2001,31 December 2001,$56.1[42],1,$56.1,48.30%,$104.4
+4,4,Fannie Mae,Government-sponsored enterprisePublic company,United States,2009,31 December 2009,$74.4,1,$74.4,25.91%,$93.68
+5,5,Fannie Mae,Government-sponsored enterprise Public company,United States,2008,31 December 2008,$59.8[43],1,$59.8,7.37%,$64.21
+6,6,Freddie Mac,Credit services,United States,2008,31 December 2008,$50.8,1,$50.8,7.37%,$54.54
+7,7,Qwest Communications,Telecommunications,United States,2002,31 December 2002,$35.9[44],1,$35.9,24.78%,$44.8
+8,8,General Motors,Automotive,United States,2007,31 December 2007,$38.7[45],1,$38.7,7.47%,$41.59
+9,9,Royal Bank of Scotland (RBS),Finance and insurance,United Kingdom,2008,31 December 2008,£24.1[46],1.4479,$34.9,7.37%,$37.47
+10,10,General Motors,Automotive,United States,1992,31 December 1992,$23.50[47],1,$23.50,59.07%,$37.38
+11,11,General Motors,Automotive,United States,2008,31 December 2008,$30.9[45],1,$30.9,7.37%,$33.18
+12,12,Citigroup,BankingFinancial services,United States,2008,31 December 2008,$27.68[48],1,$27.68,7.37%,$29.72
+13,13,Vodafone Group,Telecommunications,United Kingdom,2006,31 March 2006,£14.853[49],1.7398,$25.84,12.97%,$29.19
+14,14,Freddie Mac,Credit services,United States,2009,31 December 2009,$25.7[50],1,$25.7,4.53%,$26.86
+15,15,Vodafone Group,Telecommunications,United Kingdom,2002,31 March 2002,£13.539[51],1.4262,$19.309,26.24%,$24.38
+16,16,United Airlines,Airline,United States,2005,31 December 2005,$21.18[52],1,$21.18,14.7%,$24.29
+17,17,Nakheel,Real estate developer,United Arab Emirates,2009,31 December 2009,$20.85[53],1,$20.85,4.53%,$21.79
+18,18,UBS,BankingFinancial services,Switzerland,2008,31 December 2008,CHF19.7[54],0.9473,$18.7,7.37%,$20.08
